@@ -1,2 +1,2 @@
 # PythonCodesPractice
-A repository that i made for uploading the codes that i practice
+A repository that I made for uploading the codes that I practice.
